@@ -66,7 +66,7 @@ setTimeout(function(){
     var eventLabel = 'None';
 
 
-    var fileDomain = '/wp-content/plugins/ga-blocker-detector/collect.php?';
+    var fileDomain = '/wp-content/plugins/ga-blocker-detector-main/collect.php?';
 
     if(window.ga && ga.create) 
     {
